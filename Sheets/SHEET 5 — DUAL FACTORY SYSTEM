@@ -1,0 +1,90 @@
+Purpose
+The Dual Factory System is the first industrial capability installed on the RAMA Hub. Its job is to take raw lunar regolith boxes arriving from the Moon and convert them into structural components for expanding the hub and building new orbital systems.
+
+Two factories operate as a mirrored pair for redundancy, throughput, and safety.
+
+Factory Layout
+Each factory consists of:
+
+One feeder line (accepts incoming regolith boxes)
+
+One processing oven (melts regolith into usable material)
+
+One forming line (extrudes beams, plates, brackets, or cable anchors)
+
+One cooling rack
+
+One storage rack for finished parts
+
+The two factories are mounted on opposite sides of the hub for balance.
+
+Why Two Factories?
+1. Redundancy
+If one fails, the other keeps RAMA alive.
+
+2. Continuous Operation
+While one is cooling or resetting, the other can run hot.
+
+3. Load Balancing
+Incoming regolith boxes can be routed to whichever factory is ready.
+
+4. Safety
+If a thermal event occurs, the mirrored layout prevents hub‑wide damage.
+
+Material Flow
+Incoming regolith box arrives in orbit
+
+Box is captured and routed to a factory
+
+Box is opened and emptied into the feeder
+
+Regolith enters the oven
+
+Material is melted and homogenized
+
+Molten material is extruded into:
+
+L‑brackets
+
+Cable anchors
+
+Beam segments
+
+Plates
+
+Parts cool on racks
+
+Finished components are stored for MOE assembly
+
+Power Source
+Solar arrays feed both factories
+
+Mirror arrays can concentrate heat into the ovens
+
+Factories can run in sunlight or shadow
+
+Design Philosophy
+Identical twins: both factories are the same model
+
+Modular: each subsystem can be replaced independently
+
+Simple: no exotic alloys, no precision metallurgy
+
+Robust: built to run for years with minimal intervention
+
+Expandable: more factories can be added as RAMA grows
+
+Why This Matters
+The Dual Factory System:
+
+Turns lunar dirt into orbital structure
+
+Enables RAMA to grow without Earth launches
+
+Creates the first true off‑world industrial loop
+
+Allows the hub to expand from 20 rim sections to 40, 60, 100+
+
+Makes RAMA a self‑building system
+
+This is where RAMA stops being a structure and becomes an ecosystem.
