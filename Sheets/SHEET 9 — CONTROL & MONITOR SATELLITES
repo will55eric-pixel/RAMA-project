@@ -1,0 +1,85 @@
+Purpose
+The Control & Monitor Satellites form the external awareness layer of the RAMA system.
+They provide tracking, navigation, monitoring, and safety oversight for the hub, factories, incoming regolith boxes, and all orbital traffic in the vicinity.
+
+They are simple, rugged, and designed to operate autonomously for years.
+
+Satellite Roles
+Each satellite performs four core functions:
+
+1. Position & Navigation
+Tracks the RAMA Hub’s exact orbital position
+
+Provides reference points for MOE navigation
+
+Supplies timing and alignment data for factory operations
+
+Maintains a stable coordinate frame for expansion modules
+
+2. Object Tracking
+Monitors incoming regolith boxes
+
+Tracks debris, micro‑meteoroids, and nearby spacecraft
+
+Alerts the hub to collision risks
+
+Enables avoidance maneuvers if needed
+
+3. Environmental Monitoring
+Measures solar flux
+
+Detects thermal conditions
+
+Monitors radiation levels
+
+Tracks shadow cycles and eclipse timing
+
+4. Communications Relay
+Extends hub‑to‑Earth communication coverage
+
+Provides redundancy for high‑gain antennas
+
+Maintains a mesh network for MOEs and factory systems
+
+Constellation Layout
+Three to six satellites in slightly offset orbits
+
+Distributed to maintain full 360° coverage
+
+Each satellite is identical for manufacturing simplicity
+
+Designed to be replaced or expanded as RAMA grows
+
+Design Philosophy
+Simple: No complex propulsion; minimal moving parts
+
+Autonomous: Runs on low‑power onboard logic
+
+Redundant: Multiple satellites ensure no single point of failure
+
+Serviceable: MOEs can capture and replace units if needed
+
+Modular: Standardized bus, standardized mounts, standardized sensors
+
+Power & Thermal
+Solar panels sized for long‑term orbital operation
+
+Passive radiators for thermal stability
+
+Batteries sized for eclipse survival
+
+Why This Matters
+The Control & Monitor Satellites:
+
+Keep RAMA safe
+
+Keep RAMA aware
+
+Keep RAMA connected
+
+Enable precise factory and MOE operations
+
+Provide the orbital “air traffic control” layer RAMA needs to grow
+
+Without these satellites, RAMA would be flying blind.
+With them, RAMA becomes a coordinated, intelligent orbital system.
