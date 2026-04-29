@@ -1,0 +1,90 @@
+Purpose
+The Support Layer is the set of systems mounted around the RAMA Hub that provide power, thermal control, communications, and operational stability.
+It is the infrastructure that keeps the factories running, the MOEs working, and the entire hub alive.
+
+The Support Layer is modular, replaceable, and designed to grow as RAMA expands.
+
+Core Functions
+The Support Layer provides four essential services:
+
+1. Power Generation
+Large solar array wings mounted around the hub
+
+High‑efficiency panels optimized for orbital sunlight
+
+Modular sections that can be replaced or expanded
+
+Direct DC bus feeding factories, MOEs, and comms
+
+2. Thermal Management
+Radiator panels mounted on the shadow side of the hub
+
+Passive and active heat rejection
+
+Keeps factories and electronics within safe operating ranges
+
+Designed to scale with factory heat loads
+
+3. Communications & Control
+High‑gain antennas for Earth link
+
+Local mesh network for MOEs and factory coordination
+
+Redundant low‑gain antennas for failsafe telemetry
+
+Simple, robust, no‑nonsense comms architecture
+
+4. Structural & Operational Stability
+Mounting points for:
+
+Mirror arrays
+
+Additional solar wings
+
+Sensor packages
+
+Future modules
+
+Provides the backbone for all non‑factory systems
+
+Design Philosophy
+Modular: Every subsystem can be swapped without redesigning the hub
+
+Redundant: No single failure can shut down RAMA
+
+Simple: Uses proven orbital hardware and standard interfaces
+
+Expandable: As RAMA grows, the Support Layer grows with it
+
+Serviceable: MOEs can replace panels, radiators, and antennas easily
+
+Layout
+The Support Layer is arranged around the outer rim of the hub:
+
+Solar arrays on sun‑facing arcs
+
+Radiators on shadow‑facing arcs
+
+Antennas placed for full‑sky coverage
+
+Mirror arrays mounted on adjustable booms
+
+Sensor clusters distributed evenly for situational awareness
+
+This keeps the hub balanced, cool, powered, and connected.
+
+Why This Matters
+The Support Layer:
+
+Powers the factories
+
+Keeps the hub thermally stable
+
+Provides communications for MOEs and Earth operators
+
+Enables continuous, autonomous orbital operations
+
+Forms the backbone of RAMA’s long‑term growth
+
+Without the Support Layer, RAMA is just a ring.
+With it, RAMA becomes a functioning orbital industrial platform.
