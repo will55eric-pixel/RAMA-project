@@ -1,0 +1,55 @@
+SHEET 1 — RAMA HUB STRUCTURE
+Purpose
+The RAMA Hub is the central structural ring that all other systems attach to. It provides geometry, stability, and a standardized interface for assembly, expansion, and long‑term operations in orbit.
+
+Core Geometry
+Outer circumference: ~400 meters
+
+Footprint: 15m × 20m per rim section
+
+Height: 15 meters
+
+Total rim sections: 20 identical modules forming a closed ring
+
+Design principle: Pure structure — no interior use, no equipment, no utilities
+
+Structural Philosophy
+The Hub is intentionally empty and single‑purpose
+
+It exists only to:
+
+Hold shape
+
+Provide attachment points
+
+Support loads
+
+Enable expansion
+
+No systems are embedded into the Hub to avoid complexity, failure points, or redesign pressure
+
+Assembly Logic
+Built from 20 identical rim sections
+
+Each section is:
+
+Manufactured on Earth
+
+Launched as a single unit
+
+Connected in orbit using MOEs
+
+The ring locks into a rigid, stable geometry once all sections are joined
+
+Why This Matters
+A clean, empty, structural‑only hub:
+
+Reduces risk
+
+Simplifies manufacturing
+
+Makes scaling predictable
+
+Allows any future system to attach without redesign
+
+Keeps RAMA modular, repairable, and evolvable
