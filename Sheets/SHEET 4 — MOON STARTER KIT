@@ -1,0 +1,166 @@
+Purpose
+The Moon Starter Kit is the first RAMA system deployed to the lunar surface. Its job is brutally simple: collect raw lunar regolith into boxes and fire those boxes off the Moon using a tiny disposable rocket stage.
+
+No mining.
+No processing.
+No infrastructure.
+Just boxes up, gravity down.
+
+This is the proof‑of‑system that starts everything.
+
+Core Components
+The Starter Kit consists of three machines, all designed to be cheap, disposable, and mechanically simple.
+
+1. Lunar Sweeper (Straight‑Line, Disposable)
+Function
+The Sweeper’s only job is to:
+
+Drive in a perfectly straight line
+
+Sweep loose regolith forward
+
+Fill a box
+
+Seal it
+
+Drop it
+
+Repeat until it dies
+
+Lifetime
+Designed for ~50 boxes maximum
+
+After that, it is considered spent hardware
+
+No repairs, no maintenance, no return trip
+
+Behavior
+Moves in a straight line using simple traction
+
+Carries a magazine of collapsed boxes
+
+Automatically deploys a box when needed
+
+Fills the box to target mass
+
+Seals it mechanically
+
+Pushes it out the back
+
+Continues forward until battery depletion
+
+Design Philosophy
+Cheap
+
+Disposable
+
+Dust‑tolerant
+
+No hydraulics
+
+No fluids
+
+No precision parts
+
+The Sweeper is a broom with a motor, nothing more.
+
+2. Regolith Collector (Crane + Arm/Gripper, Remote‑Controlled)
+Purpose
+This is the ONLY manipulator system on the Moon in Gen‑1.
+
+Function
+Drives to each sealed box dropped by the Sweeper
+
+Uses a crane and arm/gripper to pick up the box
+
+Loads the box into the rocket launcher cradle
+
+Positions and aligns the box for launch
+
+All operations are 100% remote‑controlled from Earth
+
+Design
+Simple tracked or wheeled base
+
+One crane boom
+
+One arm/gripper at the end
+
+Cameras and lights for teleoperation
+
+No autonomy required
+
+Philosophy
+Keep it simple
+
+Keep it repairable
+
+Keep it human‑directed
+
+This is the lunar equivalent of a remote‑controlled forklift with a crane.
+
+3. Gen‑1 Rocket Launcher (Disposable, Dumb‑On‑Purpose)
+Purpose
+Get a sealed regolith box off the Moon once.
+That’s it.
+
+System Description
+A steel launch rail
+
+A simple cradle
+
+A disposable rocket motor bolted to each box
+
+One ignition wire
+
+One elevation angle
+
+One job: throw the box upward hard enough for orbital capture
+
+Why Rocket?
+Because for Gen‑1:
+
+It’s the cheapest
+
+It’s the fastest
+
+It’s the least exotic
+
+It’s the most testable on Earth
+
+It has the fewest moving parts
+
+It requires zero lunar infrastructure
+
+Failure Mode
+If it blows up, you lose a box
+
+If it misfires, you try again
+
+If it works once, the system is proven
+
+This is the lunar equivalent of a potato cannon with a guidance problem — and that’s exactly why it works.
+
+Deployment
+Delivered to the lunar surface in a single lander
+
+Assembled and operated entirely by Earth‑based teleoperators
+
+No MOEs, no astronauts, no EVA
+
+Regolith boxes begin arriving in lunar orbit within days
+
+Why This Matters
+The Moon Starter Kit:
+
+Proves the entire RAMA supply chain with the simplest possible hardware
+
+Eliminates the need to launch bulk material from Earth
+
+Enables RAMA to scale using lunar mass, not Earth mass
+
+Creates the first closed‑loop between Moon and orbit
+
+Allows factories on the RAMA Hub to begin producing structural components
+
+This is the first real step toward a self‑expanding orbital infrastructure.
