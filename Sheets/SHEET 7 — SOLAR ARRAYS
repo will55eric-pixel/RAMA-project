@@ -1,0 +1,73 @@
+Purpose
+The Solar Arrays provide the primary electrical power for the RAMA Hub. They feed the factories, the support layer, the comms systems, and all MOE operations.
+They are designed to be modular, expandable, and serviceable as RAMA grows.
+
+Array Architecture
+Wing‑style solar panels mounted on radial booms
+
+Modular sections that can be added or replaced without redesign
+
+Direct DC bus feeding factories and support systems
+
+Shadow‑tolerant layout to maintain power during hub rotation or partial occlusion
+
+Each wing is identical for manufacturing simplicity.
+
+Power Output
+Scales linearly with wing count
+
+Designed to support:
+
+Dual Factory System
+
+Support Layer loads
+
+MOE charging and tool racks
+
+Future expansion modules
+
+The system grows as RAMA grows — no redesign required.
+
+Mounting & Orientation
+Arrays attach to standardized hardpoints on the hub
+
+Booms extend outward to reduce thermal interference
+
+Panels are angled for optimal sun exposure
+
+Orientation can be adjusted during assembly or expansion
+
+Maintenance & Replacement
+MOEs can:
+
+Swap damaged panels
+
+Replace entire wings
+
+Add new wings as power demand increases
+
+All electrical connections use standardized plug‑in interfaces
+
+Design Philosophy
+Simple: No exotic tracking systems
+
+Robust: Built to survive decades in orbit
+
+Modular: Add or remove wings as needed
+
+Serviceable: Every component is MOE‑replaceable
+
+Scalable: Power grows with RAMA’s industrial footprint
+
+Why This Matters
+The Solar Arrays:
+
+Power the factories that turn lunar regolith into structure
+
+Keep the Support Layer alive
+
+Enable continuous MOE operations
+
+Allow RAMA to expand without Earth‑launched power systems
+
+Solar wings are the heartbeat of the RAMA Hub.
