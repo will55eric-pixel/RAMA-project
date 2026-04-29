@@ -1,0 +1,105 @@
+Purpose
+MOE‑01 is the primary robotic worker of the RAMA system. It performs all assembly, maintenance, inspection, and repair tasks in orbit. MOEs eliminate EVA risk, reduce human workload, and allow continuous 24/7 construction.
+
+Physical Description
+Shape: Flat octagon — literally the size and outline of a stop sign
+
+Dimensions: ~2 meters across, ~1.5 meters tall
+
+Chassis: Rugged, simple, repairable
+
+Mobility:
+
+4 motorized tethers mounted on alternating sides
+
+Each tether can grab, pull, anchor, or tension against structure
+
+Manipulation:
+
+4 arm/grippers, also on alternating sides
+
+Arms can clamp, hold, rotate, drive fasteners, or encircle cables
+
+Power: External hot‑swap battery packs that MOEs can replace themselves
+
+Sensors: Cameras, lights, heat sensors, motion sensors
+
+The entire machine is designed to be simple, strong, and field‑serviceable, not delicate or exotic.
+
+Control Mode
+Early MOE‑01 units are 100% remote‑controlled from Earth.  
+No autonomy required. No AI needed.
+Three‑person control team:
+
+Operator 1: Arms A + B
+
+Operator 2: Arms C + D
+
+Operator 3: All four motorized tethers
+
+This keeps the system human‑directed, predictable, and safe during early RAMA construction.
+
+Core Functions
+Orbital assembly: Connect rim sections, tension cables, align geometry
+
+Precision manipulation: Handles brackets, fasteners, cables, and structural elements
+
+Inspection: Scans joints, stress points, and alignment tolerances
+
+Maintenance: Replaces components, tightens connections, performs routine checks
+
+Logistics: Moves tools, parts, and materials around the hub
+
+Design Philosophy
+Single chassis, multi‑role: One body, many tools
+
+Tool‑agnostic: Uses standardized tool heads for every RAMA task
+
+Self‑recovering: Can reorient and return to work after disturbances
+
+Redundant: Multiple MOEs operate simultaneously; no single point of failure
+
+Durable: Built for decades of orbital service with minimal replacement needs
+
+Tooling System
+MOE‑01 uses a universal tool interface that supports:
+
+Cable tensioners
+
+Bracket drivers
+
+Alignment lasers
+
+Structural clamps
+
+Cutting and fastening tools
+
+Sensor packages
+
+Tools are stored in standardized racks mounted on the hub.
+
+Operational Behavior
+Works in coordinated swarms
+
+Communicates with other MOEs for synchronized tasks
+
+Uses the hub’s geometry as a reference frame
+
+Can operate in shadow or full sunlight
+
+Requires no human presence during assembly
+
+Why This Matters
+MOE‑01 makes RAMA:
+
+Fast to assemble
+
+Safe to maintain
+
+Scalable without adding human labor
+
+Capable of continuous improvement
+
+Independent of EVA limitations
+
+MOEs are the backbone of RAMA’s construction and long‑term viability.
